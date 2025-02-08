@@ -16,6 +16,7 @@ This project focuses on analyzing customer retention trends using Tableau. It in
 
 
 ## 📷 Visualizations
+
 **Dashboard Snapshots**
 
 ![Revenue -Refunds & Churn Rate](https://github.com/arunkumarsp-ds/Customer-Analytics-Dashboards-In-Tableau/blob/32203ba6738f45c95704d8d164f02945486b2a24/Dashboard%20Snapshots/Revenue%20-Refunds%20%26%20Churn%20Rate.png)
@@ -26,11 +27,11 @@ This project focuses on analyzing customer retention trends using Tableau. It in
 
 ![Annual User Rentention](https://github.com/arunkumarsp-ds/Customer-Analytics-Dashboards-In-Tableau/blob/a127ebf1dce8f2e44e7fe3befa817aaf1847d819/Dashboard%20Snapshots/Annual%20User%20Retention.png)
 
-![**Monthly User Retention**](https://github.com/arunkumarsp-ds/Customer-Analytics-Dashboards-In-Tableau/blob/a91be0377a4e798d50b4795b90484bde13a3dbf1/Dashboard%20Snapshots/Monthly%20User%20Retention.png)
+![Monthly User Retention](https://github.com/arunkumarsp-ds/Customer-Analytics-Dashboards-In-Tableau/blob/a91be0377a4e798d50b4795b90484bde13a3dbf1/Dashboard%20Snapshots/Monthly%20User%20Retention.png)
 
+![User Resurrection](https://github.com/arunkumarsp-ds/Customer-Analytics-Dashboards-In-Tableau/blob/ee5c31d242b857660a0d95ccf06205d04f3b71fd/Dashboard%20Snapshots/User%20Resurrection.png)
 
-
-
+![User Upgrades & Order Frequency](https://github.com/arunkumarsp-ds/Customer-Analytics-Dashboards-In-Tableau/blob/ee5c31d242b857660a0d95ccf06205d04f3b71fd/Dashboard%20Snapshots/User%20Upgrades%20%26%20Order%20Frequency.png)
 
 ## 📢 Key Insights
 - Identified churn trends and customer retention patterns.
