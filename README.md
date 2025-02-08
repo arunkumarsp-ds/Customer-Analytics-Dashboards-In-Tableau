@@ -22,6 +22,8 @@ This project focuses on analyzing customer retention trends using Tableau. It in
 ![New vs Recurring Customers](https://github.com/arunkumarsp-ds/Customer-Analytics-Dashboards-In-Tableau/blob/dff8b68b33b0d2d885600d0ea4b8168f09f6aac0/Dashboard%20Snapshots/New%20Vs%20Recurring%20Customers.png)
 ![Revenue By Country](https://github.com/arunkumarsp-ds/Customer-Analytics-Dashboards-In-Tableau/blob/09e2df3838f7d4b959a26fd3a9a7d7dc8c5880ad/Dashboard%20Snapshots/Revenue%20By%20country.png)
 
+![Annual User Rentention](https://github.com/arunkumarsp-ds/Customer-Analytics-Dashboards-In-Tableau/blob/a127ebf1dce8f2e44e7fe3befa817aaf1847d819/Dashboard%20Snapshots/Annual%20User%20Retention.png)
+
 
 
 
