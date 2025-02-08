@@ -17,7 +17,7 @@ This project focuses on analyzing customer retention trends using Tableau. It in
 
 ## 📷 Visualizations
 
-### **Dashboard Snapshots**
+### Dashboard Snapshots
 
 **Revenue -Refunds & Churn Rate**
 ![Revenue -Refunds & Churn Rate](https://github.com/arunkumarsp-ds/Customer-Analytics-Dashboards-In-Tableau/blob/32203ba6738f45c95704d8d164f02945486b2a24/Dashboard%20Snapshots/Revenue%20-Refunds%20%26%20Churn%20Rate.png)
